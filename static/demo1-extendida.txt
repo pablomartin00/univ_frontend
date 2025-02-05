@@ -1,0 +1,79 @@
+### DATOS PRINCIPALES  
+Nombre: Gabriel Cárdenas  
+Edad: 41 años  
+Sexo: Masculino  
+
+---
+
+### CONSULTA INICIAL  
+Fecha: 11/04/2018  
+
+Anamnesis:  
+- Motivo de consulta: Dolor en el hombro izquierdo.  
+- Inicio del dolor: 09/02/2018.  
+- Evolución: 4 años.  
+- Características del dolor:  
+  - Dolor mayor al caminar, irradiación hacia el codo.  
+  - Dolor al flexionar el hombro con peso.  
+  - Sin dolor en reposo ni en la cama.  
+  - Molestias al dormir sobre el lado izquierdo.  
+  - Dolor localizado en la zona del deltoides.  
+- Antecedentes personales:  
+  - Rotura de cúbito y radio derecho (hace 10 años, estabilizado con placas).  
+  - Operación de apendicitis (hace 21 años).  
+
+Exploración Física:  
+- Dolor: En el hombro izquierdo, irradiado hacia el codo y la muñeca.  
+- Movilidad: Limitada en flexión y abducción por dolor.  
+- Pruebas: Dolor referido al dermatoma C5; indicación articular y musculo-tendinosa.  
+
+Diagnóstico: Presuntivo.  
+- DX: Tendinitis del hombro izquierdo.  
+
+Plan de Tratamiento:  
+- Reposo y antiinflamatorios por 2 semanas.  
+- Masaje terapéutico en las zonas afectadas.  
+- Reevaluación en 2 semanas para considerar resonancia magnética.  
+
+---
+
+### CONSULTA 2  
+Fecha: 25/04/2018  
+
+Anamnesis:  
+- Persistencia del dolor con leve mejoría en movilidad.  
+- Incremento de comodidad al dormir.  
+
+Exploración Física:  
+- Movilidad ligeramente aumentada.  
+- Dolor presente en ciertos movimientos, sin cambios en irradiación.  
+
+Diagnóstico: Definitivo.  
+- DX: Tendinitis confirmada del hombro izquierdo.  
+
+Plan de Tratamiento Modificado:  
+- Continuar con antiinflamatorios.  
+- Iniciar terapia física para fortalecer el deltoides y mejorar movilidad.  
+- Indicación de resonancia magnética si no hay mejoría en un mes.  
+
+---
+
+### CONSULTA 3  
+Fecha: 23/05/2018  
+
+Anamnesis:  
+- Mejoría significativa en movilidad y disminución del dolor.  
+- Sin irradiación hacia codo o muñeca.  
+
+Exploración Física:  
+- Movilidad normalizada.  
+- Sin dolor significativo durante flexión o abducción.  
+
+Diagnóstico:  
+- Resolución de la tendinitis del hombro izquierdo.  
+
+Plan Final:  
+- Alta parcial.  
+- Indicaciones:  
+  - Ejercicios de fortalecimiento supervisados.  
+  - Control en 3 meses para reevaluar funcionalidad completa.  

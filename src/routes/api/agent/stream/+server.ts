@@ -14,6 +14,14 @@ export const GET: RequestHandler = async ({ url }) => {
           try {
             const userMessage = url.searchParams.get('user_message');
             const historicalMessages = JSON.parse(url.searchParams.get('historical_messages') || '[]');
+            
+            const legajoPaciente = url.searchParams.get('legajo_paciente');
+
+            // Imprimimos los valores en la consola para visualizarlos
+            console.log('#1userMessage:', userMessage);
+            console.log('#2historicalMessages:', historicalMessages);
+            console.log('#3legajoPaciente:', legajoPaciente);
+
   
             if (!userMessage) {
               // Enviar mensaje de error en el formato adecuado de SSE
@@ -31,6 +39,7 @@ export const GET: RequestHandler = async ({ url }) => {
               body: JSON.stringify({
                 user_message: userMessage,
                 historical_messages: historicalMessages,
+                legajo_paciente: legajoPaciente,
               }),
             });
   

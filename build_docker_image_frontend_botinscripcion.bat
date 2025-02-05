@@ -1,4 +1,4 @@
-docker build -t botinscripcion_agent_frontend_image .
+docker build -t frontend_image_drcopilot .
 pause
 
 
